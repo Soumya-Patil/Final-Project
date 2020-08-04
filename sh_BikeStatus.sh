@@ -1,4 +1,4 @@
-#python BikeStatus.py
+# BikeStatus Script
 
 def rw_to_db():
 
