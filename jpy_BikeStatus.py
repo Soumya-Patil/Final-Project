@@ -42,4 +42,3 @@ bike_df.to_sql(name = 'bikes',con = engine , if_exists = 'append',index = False)
 
 
 
-
