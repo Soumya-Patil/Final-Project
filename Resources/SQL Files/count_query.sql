@@ -1,1 +1,1 @@
-select count(*) from bikes;
+select count(*) from bikes_nondups;
